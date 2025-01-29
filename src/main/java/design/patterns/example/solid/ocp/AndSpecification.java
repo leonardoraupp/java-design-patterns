@@ -1,4 +1,4 @@
-package org.example.ocp;
+package design.patterns.example.solid.ocp;
 
 public class AndSpecification<T> implements Specification<T> {
     private Specification<T> first, second;

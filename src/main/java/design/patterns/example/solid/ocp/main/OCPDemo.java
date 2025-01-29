@@ -1,11 +1,12 @@
-package org.example.ocp.main;
+package design.patterns.example.solid.ocp.main;
 
-import org.example.ocp.*;
-import org.example.ocp.enums.Color;
-import org.example.ocp.enums.Size;
+import design.patterns.example.solid.ocp.*;
+import design.patterns.example.solid.ocp.enums.Color;
+import design.patterns.example.solid.ocp.enums.Size;
 
 import java.util.List;
 
+// Open Closed Principle
 public class OCPDemo {
     public static void main(String[] args) {
         System.out.println("Open Closed Principle");

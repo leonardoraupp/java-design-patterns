@@ -1,7 +1,7 @@
-package org.example.ocp;
+package design.patterns.example.solid.ocp;
 
-import org.example.ocp.enums.Color;
-import org.example.ocp.enums.Size;
+import design.patterns.example.solid.ocp.enums.Color;
+import design.patterns.example.solid.ocp.enums.Size;
 
 public class Product {
     public String name;

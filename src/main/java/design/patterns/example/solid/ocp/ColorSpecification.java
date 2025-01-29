@@ -1,6 +1,6 @@
-package org.example.ocp;
+package design.patterns.example.solid.ocp;
 
-import org.example.ocp.enums.Color;
+import design.patterns.example.solid.ocp.enums.Color;
 
 public class ColorSpecification implements Specification<Product> {
     private Color color;

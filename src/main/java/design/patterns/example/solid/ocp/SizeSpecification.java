@@ -1,6 +1,6 @@
-package org.example.ocp;
+package design.patterns.example.solid.ocp;
 
-import org.example.ocp.enums.Size;
+import design.patterns.example.solid.ocp.enums.Size;
 
 public class SizeSpecification implements Specification<Product> {
     private Size size;
