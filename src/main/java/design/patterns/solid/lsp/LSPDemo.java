@@ -1,4 +1,4 @@
-package design.patterns.example.solid.lsp;
+package design.patterns.solid.lsp;
 
 class Rectangle {
     protected int width, height;

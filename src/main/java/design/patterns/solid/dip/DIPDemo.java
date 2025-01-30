@@ -1,4 +1,4 @@
-package design.patterns.example.solid.dip;
+package design.patterns.solid.dip;
 
 import org.javatuples.Triplet;
 // A. High-level modules should not depend on low-level modules.

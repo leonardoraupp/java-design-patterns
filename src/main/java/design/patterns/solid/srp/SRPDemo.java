@@ -1,4 +1,4 @@
-package design.patterns.example.solid.srp;
+package design.patterns.solid.srp;
 
 import java.io.*;
 import java.net.URL;

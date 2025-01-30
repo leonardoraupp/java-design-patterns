@@ -1,4 +1,4 @@
-package design.patterns.example.solid.ocp;
+package design.patterns.solid.ocp;
 
 public interface Specification<T> {
     boolean isSatisfied(T item);

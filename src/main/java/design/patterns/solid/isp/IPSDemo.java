@@ -1,4 +1,4 @@
-package design.patterns.example.solid.isp;
+package design.patterns.solid.isp;
 
 class Document {
 }

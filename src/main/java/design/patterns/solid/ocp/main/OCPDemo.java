@@ -1,8 +1,8 @@
-package design.patterns.example.solid.ocp.main;
+package design.patterns.solid.ocp.main;
 
-import design.patterns.example.solid.ocp.*;
-import design.patterns.example.solid.ocp.enums.Color;
-import design.patterns.example.solid.ocp.enums.Size;
+import design.patterns.solid.ocp.*;
+import design.patterns.solid.ocp.enums.Color;
+import design.patterns.solid.ocp.enums.Size;
 
 import java.util.List;
 
